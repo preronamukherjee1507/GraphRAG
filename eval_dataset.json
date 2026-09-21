@@ -1,0 +1,5 @@
+[
+  {"qid": "eval-001", "question": "Who won the gold medal in the event held at Olympic Tennis Centre on 15 to 22 August 2004?", "qtype": "multi_hop"},
+  {"qid": "eval-002", "question": "How many nations competed in Fencing at the 1988 Summer Olympics – Men's foil?", "qtype": "lookup"}
+  // ... rest of your dataset
+]
